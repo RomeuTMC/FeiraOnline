@@ -1,0 +1,56 @@
+.hamburger-header, #roomsBtn {
+    display: none !important;
+}
+#send-msg-btn, #sendTipBtn, {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    order: 3;
+    padding: 7px 0;
+    align-self: flex-end;
+    margin: 0 10px;
+    width: 90px;
+    height: 70px;
+    text-align: center;
+    text-transform: uppercase;
+    border-radius: 2px;
+    font-size: 12px;
+    font-weight: bolder;
+    background: #ff1a88;
+}
+#usersContainer2{
+    overflow-y: visible !important;
+}
+/* #usersContainer {
+    display: none !important;
+}
+
+#header {
+    display: none !important;
+}
+.open #chatContainer,
+#chatContainer {
+    height: calc(100vh - 100px) !important;
+}
+
+div.message img.userItem {
+    height: 30px !important;
+}
+
+.userItem {
+    font-size: 0.8em;
+}
+
+div.message div.content {
+    font-size: 0.75em;
+    padding: 4px 10px;
+    margin: 4px 0px;
+}
+
+#tabs .nav-tabs {
+    display: none !important;
+}
+
+#tabs .tab-content {
+    height: 100% !important;
+} */

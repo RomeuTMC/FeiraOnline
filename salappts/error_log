@@ -1,0 +1,151 @@
+[21-Sep-2020 17:21:06 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Sep-2020 17:26:42 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Sep-2020 19:23:10 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Sep-2020 19:23:10 America/Sao_Paulo] PHP Notice:  Undefined index: user in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 159
+[21-Sep-2020 19:23:10 America/Sao_Paulo] PHP Notice:  Undefined index: start in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 234
+[21-Sep-2020 19:23:10 America/Sao_Paulo] PHP Notice:  Undefined index: day in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 236
+[21-Sep-2020 19:23:10 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 239
+[21-Sep-2020 19:23:21 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Sep-2020 19:23:21 America/Sao_Paulo] PHP Notice:  Undefined index: user in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 159
+[21-Sep-2020 19:23:21 America/Sao_Paulo] PHP Notice:  Undefined index: start in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 234
+[21-Sep-2020 19:23:21 America/Sao_Paulo] PHP Notice:  Undefined index: day in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 236
+[21-Sep-2020 19:23:21 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 239
+[21-Sep-2020 19:24:23 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Sep-2020 19:24:23 America/Sao_Paulo] PHP Notice:  Undefined index: user in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 159
+[21-Sep-2020 19:24:23 America/Sao_Paulo] PHP Notice:  Undefined index: start in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 234
+[21-Sep-2020 19:24:23 America/Sao_Paulo] PHP Notice:  Undefined index: day in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 236
+[21-Sep-2020 19:24:23 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 239
+[21-Sep-2020 19:24:49 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Sep-2020 19:24:49 America/Sao_Paulo] PHP Notice:  Undefined index: user in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 159
+[21-Sep-2020 19:24:49 America/Sao_Paulo] PHP Notice:  Undefined index: start in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 234
+[21-Sep-2020 19:24:49 America/Sao_Paulo] PHP Notice:  Undefined index: day in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 236
+[21-Sep-2020 19:24:49 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 239
+[21-Sep-2020 19:26:11 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Sep-2020 19:26:11 America/Sao_Paulo] PHP Notice:  Undefined index: user in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 159
+[21-Sep-2020 19:26:11 America/Sao_Paulo] PHP Notice:  Undefined index: start in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 234
+[21-Sep-2020 19:26:11 America/Sao_Paulo] PHP Notice:  Undefined index: day in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 236
+[21-Sep-2020 19:26:11 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 239
+[21-Sep-2020 19:27:34 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Sep-2020 19:27:34 America/Sao_Paulo] PHP Notice:  Undefined index: user in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 159
+[21-Sep-2020 19:27:34 America/Sao_Paulo] PHP Notice:  Undefined index: start in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 234
+[21-Sep-2020 19:27:34 America/Sao_Paulo] PHP Notice:  Undefined index: day in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 236
+[21-Sep-2020 19:27:34 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 239
+[21-Sep-2020 19:30:16 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Sep-2020 19:30:16 America/Sao_Paulo] PHP Notice:  Undefined index: user in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 163
+[21-Sep-2020 19:30:16 America/Sao_Paulo] PHP Notice:  Undefined index: start in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 245
+[21-Sep-2020 19:30:16 America/Sao_Paulo] PHP Notice:  Undefined index: day in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 247
+[21-Sep-2020 19:30:16 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 250
+[21-Sep-2020 19:30:42 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Sep-2020 19:30:42 America/Sao_Paulo] PHP Notice:  Undefined index: user in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 163
+[21-Sep-2020 19:30:42 America/Sao_Paulo] PHP Notice:  Undefined index: start in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 245
+[21-Sep-2020 19:30:42 America/Sao_Paulo] PHP Notice:  Undefined index: day in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 247
+[21-Sep-2020 19:30:42 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 250
+[21-Sep-2020 19:31:32 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Sep-2020 19:31:32 America/Sao_Paulo] PHP Notice:  Undefined index: user in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 163
+[21-Sep-2020 19:31:32 America/Sao_Paulo] PHP Notice:  Undefined index: start in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 249
+[21-Sep-2020 19:31:32 America/Sao_Paulo] PHP Notice:  Undefined index: day in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 251
+[21-Sep-2020 19:31:32 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 254
+[21-Sep-2020 19:32:28 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Sep-2020 19:32:28 America/Sao_Paulo] PHP Notice:  Undefined index: user in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 163
+[21-Sep-2020 19:32:28 America/Sao_Paulo] PHP Notice:  Undefined index: start in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 246
+[21-Sep-2020 19:32:28 America/Sao_Paulo] PHP Notice:  Undefined index: day in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 248
+[21-Sep-2020 19:32:28 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 251
+[21-Sep-2020 19:33:10 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Sep-2020 19:33:10 America/Sao_Paulo] PHP Notice:  Undefined index: user in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 163
+[21-Sep-2020 19:33:10 America/Sao_Paulo] PHP Notice:  Undefined index: start in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 246
+[21-Sep-2020 19:33:10 America/Sao_Paulo] PHP Notice:  Undefined index: day in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 248
+[21-Sep-2020 19:33:10 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 251
+[21-Sep-2020 19:33:17 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Sep-2020 19:33:17 America/Sao_Paulo] PHP Notice:  Undefined index: user in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 163
+[21-Sep-2020 19:33:17 America/Sao_Paulo] PHP Notice:  Undefined index: start in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 246
+[21-Sep-2020 19:33:17 America/Sao_Paulo] PHP Notice:  Undefined index: day in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 248
+[21-Sep-2020 19:33:17 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 251
+[21-Sep-2020 19:33:40 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Sep-2020 19:33:40 America/Sao_Paulo] PHP Notice:  Undefined index: user in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 163
+[21-Sep-2020 19:33:40 America/Sao_Paulo] PHP Notice:  Undefined index: start in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 246
+[21-Sep-2020 19:33:40 America/Sao_Paulo] PHP Notice:  Undefined index: day in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 248
+[21-Sep-2020 19:33:40 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 251
+[21-Sep-2020 19:33:43 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Sep-2020 19:33:43 America/Sao_Paulo] PHP Notice:  Undefined index: user in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 163
+[21-Sep-2020 19:33:43 America/Sao_Paulo] PHP Notice:  Undefined index: start in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 246
+[21-Sep-2020 19:33:43 America/Sao_Paulo] PHP Notice:  Undefined index: day in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 248
+[21-Sep-2020 19:33:43 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 251
+[21-Sep-2020 19:35:02 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Sep-2020 19:35:02 America/Sao_Paulo] PHP Notice:  Undefined index: user in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 163
+[21-Sep-2020 19:35:02 America/Sao_Paulo] PHP Notice:  Undefined index: start in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 246
+[21-Sep-2020 19:35:02 America/Sao_Paulo] PHP Notice:  Undefined index: day in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 248
+[21-Sep-2020 19:35:02 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 251
+[21-Sep-2020 19:36:31 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Sep-2020 19:36:31 America/Sao_Paulo] PHP Notice:  Undefined index: user in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 163
+[21-Sep-2020 19:36:31 America/Sao_Paulo] PHP Notice:  Undefined index: start in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 246
+[21-Sep-2020 19:36:31 America/Sao_Paulo] PHP Notice:  Undefined index: day in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 248
+[21-Sep-2020 19:36:31 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 251
+[21-Sep-2020 19:36:51 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Sep-2020 19:36:51 America/Sao_Paulo] PHP Notice:  Undefined index: user in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 163
+[21-Sep-2020 19:36:51 America/Sao_Paulo] PHP Notice:  Undefined index: start in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 246
+[21-Sep-2020 19:36:51 America/Sao_Paulo] PHP Notice:  Undefined index: day in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 248
+[21-Sep-2020 19:36:51 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 251
+[21-Sep-2020 19:39:10 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Sep-2020 19:39:10 America/Sao_Paulo] PHP Notice:  Undefined index: user in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 163
+[21-Sep-2020 19:39:10 America/Sao_Paulo] PHP Notice:  Undefined index: start in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 250
+[21-Sep-2020 19:39:10 America/Sao_Paulo] PHP Notice:  Undefined index: day in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 252
+[21-Sep-2020 19:39:10 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 255
+[21-Sep-2020 19:39:27 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Sep-2020 19:39:27 America/Sao_Paulo] PHP Notice:  Undefined index: user in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 163
+[21-Sep-2020 19:39:27 America/Sao_Paulo] PHP Notice:  Undefined index: start in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 250
+[21-Sep-2020 19:39:27 America/Sao_Paulo] PHP Notice:  Undefined index: day in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 252
+[21-Sep-2020 19:39:27 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 255
+[21-Sep-2020 19:40:02 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Sep-2020 19:40:02 America/Sao_Paulo] PHP Notice:  Undefined index: user in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 164
+[21-Sep-2020 19:40:02 America/Sao_Paulo] PHP Notice:  Undefined index: start in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 251
+[21-Sep-2020 19:40:02 America/Sao_Paulo] PHP Notice:  Undefined index: day in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 253
+[21-Sep-2020 19:40:02 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 256
+[21-Sep-2020 19:40:58 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Sep-2020 19:40:58 America/Sao_Paulo] PHP Notice:  Undefined index: user in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 164
+[21-Sep-2020 19:40:58 America/Sao_Paulo] PHP Notice:  Undefined index: start in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 251
+[21-Sep-2020 19:40:58 America/Sao_Paulo] PHP Notice:  Undefined index: day in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 253
+[21-Sep-2020 19:40:58 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 256
+[21-Sep-2020 19:41:01 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Sep-2020 19:41:01 America/Sao_Paulo] PHP Notice:  Undefined index: user in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 164
+[21-Sep-2020 19:41:01 America/Sao_Paulo] PHP Notice:  Undefined index: start in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 251
+[21-Sep-2020 19:41:01 America/Sao_Paulo] PHP Notice:  Undefined index: day in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 253
+[21-Sep-2020 19:41:01 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 256
+[21-Sep-2020 19:41:42 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Sep-2020 19:41:42 America/Sao_Paulo] PHP Notice:  Undefined index: user in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 164
+[21-Sep-2020 19:41:42 America/Sao_Paulo] PHP Notice:  Undefined index: start in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 251
+[21-Sep-2020 19:41:42 America/Sao_Paulo] PHP Notice:  Undefined index: day in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 253
+[21-Sep-2020 19:41:42 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 256
+[21-Sep-2020 19:42:22 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Sep-2020 19:42:22 America/Sao_Paulo] PHP Notice:  Undefined index: user in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 164
+[21-Sep-2020 19:42:22 America/Sao_Paulo] PHP Notice:  Undefined index: start in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 251
+[21-Sep-2020 19:42:22 America/Sao_Paulo] PHP Notice:  Undefined index: day in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 253
+[21-Sep-2020 19:42:22 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 256
+[21-Sep-2020 19:44:52 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Sep-2020 19:44:52 America/Sao_Paulo] PHP Notice:  Undefined index: user in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 164
+[21-Sep-2020 19:44:52 America/Sao_Paulo] PHP Notice:  Undefined index: start in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 251
+[21-Sep-2020 19:44:52 America/Sao_Paulo] PHP Notice:  Undefined index: day in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 253
+[21-Sep-2020 19:44:52 America/Sao_Paulo] PHP Notice:  Undefined offset: 1 in /home1/tmcco608/public_html/feiraonline/salappts/index.php on line 256
+[21-Sep-2020 22:22:51 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Sep-2020 22:59:08 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[21-Sep-2020 23:00:30 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Sep-2020 08:56:43 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Sep-2020 09:00:06 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Sep-2020 09:00:44 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Sep-2020 09:00:55 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Sep-2020 09:02:49 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Sep-2020 10:52:31 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Sep-2020 10:52:50 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Sep-2020 10:53:15 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[22-Sep-2020 11:20:47 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[23-Sep-2020 12:42:42 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[23-Sep-2020 12:42:54 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[23-Sep-2020 14:56:44 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[23-Sep-2020 14:56:54 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Sep-2020 13:56:53 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Sep-2020 13:59:56 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Sep-2020 14:10:09 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Sep-2020 15:38:57 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Sep-2020 16:03:32 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Sep-2020 16:03:38 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[28-Sep-2020 16:06:11 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[06-Oct-2020 13:45:22 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
