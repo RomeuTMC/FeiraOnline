@@ -1,0 +1,10 @@
+{
+    "phpcs.standard": "PSR12",
+    "phpSniffer.standard": "PSR12",
+    "phpSniffer.executablesFolder": "/usr/bin/",
+    "phpSniffer.autoDetect": true,
+    "phpcs.executablePath": "",
+    "phpsab.standard": "PSR12",
+    "phpsab.executablePathCS": "/usr/bin/phpcs",
+    "phpsab.executablePathCBF": "/usr/bin/phpcbf"
+}
