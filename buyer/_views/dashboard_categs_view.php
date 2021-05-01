@@ -15,7 +15,8 @@ $tmp = '';
   <div class="stands-content">
   <?php foreach($dados['listagem'] as $v) { ?>
     <div class="stands-item">
-        <a href="<?php echo ADMIN.'dashboard/stand/'.$v['nId']; ?>"><img src="<?php echo(URL.$v['aLogo']); ?>" alt=""></a>
+        <a href="<?php echo ADMIN.'dashboard/stand/'.$v['nId']; ?>"><img src="https://www.tmccomunicacao.com.br/feira-demonstracao/img/logotemp.png" alt=""></a>
+        <a href="<?php echo ADMIN.'dashboard/stand/'.$v['nId']; ?>"><img src="<?php echo(URL.$v['aLogo']); ?>" alt="" class="d-none"></a>
     </div>
   <?php } ?>
 </div>
